@@ -39,5 +39,27 @@ public class Student {
         return mark;
     }
 
+    // SETTERS
+    public void setId(int id){
+        this.id = id;
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public void setAge(int age){
+        this.age = age;
+    }
+
+    public void setCourse(String course){
+        this.course = course;
+    }
+
+    public void setMark(double mark){
+        this.mark = mark;
+    }
+
+    
 
 }
