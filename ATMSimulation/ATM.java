@@ -15,7 +15,6 @@ public class Atm {
     }
 
     // Getters
-
     public int getAccountNumber() {
         return accountNumber;
     }
